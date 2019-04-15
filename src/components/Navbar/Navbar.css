@@ -1,0 +1,18 @@
+.jumbotron {
+    height: 320px;
+    align-content: center;
+    background-color: rgba(26, 247, 5, 0.5);
+    text-align: center;
+  }
+  #logo {
+    align-content: center;
+    height: 85px;
+    width: 250px;
+  }
+  .container {
+    text-align: center;
+    width: 100%;
+  }
+  .my-4 {
+    width: 400px;
+  }
